@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 5px;
+}
